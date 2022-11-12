@@ -1,0 +1,13 @@
+body{
+  background: rgb(35, 41, 48);
+  color: aliceblue;
+}
+
+#cover{
+  width: 275px;
+  height: 275px;
+  border: 1px solid rgb(255, 255, 255);
+  background-position: center;
+  background-size: cover;
+  
+}
